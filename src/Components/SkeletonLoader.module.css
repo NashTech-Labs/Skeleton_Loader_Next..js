@@ -1,0 +1,30 @@
+.card {
+  border: 1px solid #cccccc;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 12px;
+  padding: 24px 20px 4px;
+}
+.card-title {
+  font-size: 25px;
+  font-weight: 600;
+  font-family: "Times New Roman", Times, serif;
+}
+.box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.btn {
+  text-transform: initial;
+}
+.chip {
+  background-color: #467e1b;
+  color: #ffffff;
+  font-weight: 600;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
